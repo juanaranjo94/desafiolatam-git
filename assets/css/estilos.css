@@ -13,11 +13,21 @@ body {
 
 /* Mis trabajos */
 
+#Mis-trabajos {
+  background-color: rgb(21, 21, 21) !important;
+}
+
+#Mis-trabajos .card {
+  border-radius: 25px;
+}
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
 }
 
 /* Contacto */
